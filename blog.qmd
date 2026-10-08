@@ -1,0 +1,13 @@
+---
+title: "Blog"
+---
+
+Welcome to my blog! Here I share my ECON 3201 assignments and projects.
+
+## ECON 3201 - Assignment 1
+
+**Course:** Econometrics for Economics and Finance
+
+**Date:** October 8, 2026
+
+[View Assignment 1 PDF](econ_3201_a1.pdf)

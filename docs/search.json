@@ -2,15 +2,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Harmeet_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m a Econ student at the University of Winnipeg. I’m interested in economics, financial markets, and learning how data can help us make better decisions. This website is where I’ll share my coursework and projects.\n\n\n\nUniversity of Winnipeg — Economics"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "Hi! I’m a Econ student at the University of Winnipeg. I’m interested in economics, financial markets, and learning how data can help us make better decisions. This website is where I’ll share my coursework and projects."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "University of Winnipeg — Economics"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Harmeet. I am a student at the University of Winnipeg."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nI am currently completing my undergraduate studies at the University of Winnipeg."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nI enjoy travelling, sports, music, and learning new things."
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "About Me",
+    "section": "Contact Information",
+    "text": "Contact Information\nEmail: your email here"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog! Here I share my ECON 3201 assignments and projects."
+  },
+  {
+    "objectID": "blog.html#econ-3201---assignment-1",
+    "href": "blog.html#econ-3201---assignment-1",
+    "title": "Blog",
+    "section": "ECON 3201 - Assignment 1",
+    "text": "ECON 3201 - Assignment 1\nCourse: Econometrics for Economics and Finance\nDate: October 8, 2026\nView Assignment 1 PDF"
   }
 ]

@@ -1,9 +1,17 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+My name is Harmeet. I am a student at the University of Winnipeg.
 
-```{r}
-1 + 1
-```
+## Education
+
+I am currently completing my undergraduate studies at the University of Winnipeg.
+
+## Interests
+
+I enjoy travelling, sports, music, and learning new things.
+
+## Contact Information
+
+Email: your email here

@@ -1,11 +1,13 @@
 ---
-title: "Harmeet_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Welcome to My Website - Harmeet Singh
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+Hi! I'm a Econ student at the University of Winnipeg. I'm interested in economics, financial markets, and learning how data can help us make better decisions. This website is where I'll share my coursework and projects.
+
+## Education
+
+University of Winnipeg — Economics
